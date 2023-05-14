@@ -2,6 +2,9 @@ SF firstLine
 SF secondLine -- line modified step 4 from git_1 branch
 SF thirdLine
 SF fourthLine -- line modified step 4 from git_1 branch
+SF secondLine -- line modified step 4
+SF thirdLine 
+SF fourthLine -- line modified step 4
 SF FifthLine
 SF SixthLine
 SF SeventhLine
