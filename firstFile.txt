@@ -1,6 +1,6 @@
-first line 
+first line -- modified line for step 7 
 second line
-third line
+third line -- modifed line for step 7
 fourth line
 Fifth line
 Sixth line
