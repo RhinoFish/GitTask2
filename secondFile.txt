@@ -1,7 +1,7 @@
 SF firstLine
-SF secondLine
-SF thirdLine
-SF fourthLine
+SF secondLine -- line modified step 4
+SF thirdLine 
+SF fourthLine -- line modified step 4
 SF FifthLine
 SF SixthLine
 SF SeventhLine
