@@ -1,8 +1,8 @@
 first line -- modified line for step 7 
 second line
 third line -- modifed line for step 7
-fourth line
-Fifth line
+fourth line -- change for step 18
+Fifth line -- change for step 18
 Sixth line
 Seventh line
 Eighth line --- modified line for step 8
